@@ -1,4 +1,12 @@
-# flappy-bird
+# Flappy Bird
+
 Just for learning <3
-Install req.txt first (pip install -r req.txt or pip install pygame-ce)
-And Boom (python flappy_bird.py) Run <3
+
+## Installation
+pip install -r requirements.txt
+# Or alternative: pip install pygame-ce
+
+## Run Game
+python flappy_bird.py
+
+Boom! Enjoy <3
